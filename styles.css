@@ -1,0 +1,29 @@
+@import url("https://use.typekit.net/gvm0ikq.css");
+@import url("https://use.typekit.net/gvm0ikq.css");
+
+body {
+    background-color: #210000;
+    text-align: center;
+}
+body h1 {
+    font-family: "itc-benguiat", serif;
+    font-style: normal;
+    font-weight: 400;
+    color:#ff1515;
+    font-size: 8vw;
+    padding-top: 30px;
+    text-decoration: overline;
+}
+body h2 {
+    font-family: "itc-benguiat", serif;
+    font-style: normal;
+    font-weight: 400;
+    color:#ff1515;
+    font-size: 4vw;
+}
+body p {
+    font-family: "itc-benguiat", serif;
+    font-style: normal;
+    font-weight: 400;
+    color:#FEC400;
+}
