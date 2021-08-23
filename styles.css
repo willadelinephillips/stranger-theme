@@ -46,4 +46,12 @@ body li {
     background-color: black; 
     font-weight:bold;
     margin:10px;
+    text-decoration: none;
+}
+body ul a {
+    color:#FEC400;
+} 
+body ul a:hover {
+    color:#FEC400;
+    text-decoration: none;
 }
