@@ -33,6 +33,11 @@ body ul {
     font-style: normal;
     font-weight: 400;
     color:#FEC400;
-    font-size: 2vw;
+    font-size: 3vw;
     list-style-type:none;
+    padding: 0;
+}
+body li {
+    padding:30px;
+    background-color: black; 
 }
