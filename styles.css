@@ -10,7 +10,7 @@ body h1 {
     font-style: normal;
     font-weight: 400;
     color:#ff1515;
-    font-size: 8vw;
+    font-size: 10vw;
     padding-top: 30px;
     text-decoration: overline;
 }
@@ -19,14 +19,14 @@ body h2 {
     font-style: normal;
     font-weight: 400;
     color:#ff1515;
-    font-size: 4vw;
+    font-size: 5vw;
 }
 body p {
     font-family: "itc-benguiat", serif;
     font-style: normal;
     font-weight: 400;
     color:#FEC400;
-    font-size: 2vw;
+    font-size: 2.5vw;
 }
 body iframe {
     height: 40vw;
