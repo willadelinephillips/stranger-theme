@@ -28,6 +28,10 @@ body p {
     color:#FEC400;
     font-size: 2vw;
 }
+body iframe {
+    height: 40vw;
+    width: 80vw;
+}
 body ul {
     font-family: "itc-benguiat", serif;
     font-style: normal;
