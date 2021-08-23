@@ -44,4 +44,6 @@ body ul {
 body li {
     padding:30px;
     background-color: black; 
+    font-weight:bold;
+    margin:10px;
 }
