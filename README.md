@@ -1,4 +1,4 @@
-# hadeanhaiii
-A project website made for a friend.
+#stranger-theme
+Sample theme made in the style of Stranger Things
 Github Pages Website Sample-
 https://willadelinephillips.github.io/hadeanhaiii/
